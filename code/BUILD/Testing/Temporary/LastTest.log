@@ -1,0 +1,16 @@
+Start testing: Nov 01 21:39 EST
+----------------------------------------------------------
+Changing directory into: /home/krm15/SVNROOT/Publications/kishore/InsightJournal/AdaptiveThreshold/code/BUILD
+1/1 Testing: adaptiveOtsuThresh2DTest
+1/1 Test: adaptiveOtsuThresh2DTest
+Command: "/home/krm15/SVNROOT/Publications/kishore/InsightJournal/AdaptiveThreshold/code/BUILD/adaptiveOtsuThresh2D" "/home/krm15/SVNROOT/Publications/kishore/InsightJournal/AdaptiveThreshold/code/input.png" "/home/krm15/SVNROOT/Publications/kishore/InsightJournal/AdaptiveThreshold/code/output.png" "20" "5000" "3" "50" 
+Directory: /home/krm15/SVNROOT/Publications/kishore/InsightJournal/AdaptiveThreshold/code/BUILD
+"adaptiveOtsuThresh2DTest" start time: Nov 01 21:39 EST
+Output:
+----------------------------------------------------------
+----------------------------------------------------------
+"adaptiveOtsuThresh2DTest" end time: Nov 01 21:40 EST
+"adaptiveOtsuThresh2DTest" time elapsed: 00:00:04
+----------------------------------------------------------
+
+End testing: Nov 01 21:40 EST
